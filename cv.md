@@ -11,9 +11,10 @@ _Current job: Software Resting Engineer_
 * Finding and reporting product bugs; verifying bug-fixes 
 ## Work Experience
 Software Testing Engineer; 2018 up to Present
+
 EPAM systems
 ## Education
-College: Lingvohumanitarian college (2013 - 2016)
-University: Minsk State Linguistic University (2016 - 2018)
+* College: Lingvohumanitarian college (2013 - 2016)
+* University: Minsk State Linguistic University (2016 - 2018)
 ## English
-Level: Advanced
+* Level: Advanced
